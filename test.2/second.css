@@ -1,0 +1,35 @@
+body{
+		background: linear-gradient(#236bd1,#57a8a8,#847048);
+		background-image: 
+	}
+	#p001{
+		color : #773d66;
+	}
+	#a001{
+		background-color:black;color:brown;
+	}
+	#b001{
+		text-align: center; color:brown;
+	}
+	#c001{
+		color:red;
+	}
+	#d001{
+		border:2px solid green; width:200; height:200;
+	}
+	#e001{
+		color:blue;
+	}
+	a{
+		color:#330c11;
+	}
+	#Registration{
+		height:450px;
+			width:100%;
+			border: 2px dashed black;
+			/*background-color: green*/
+			
+	}
+	#menu{
+		position: fixed;
+	}
